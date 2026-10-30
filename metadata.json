@@ -1,0 +1,6 @@
+{
+  "name": "HINT-FIRST AI Tutor - Trợ Lý Học Lập Trình Thông Minh",
+  "description": "HINT-FIRST AI Tutor - Trợ lý học lập trình thông minh dành cho học sinh THCS. Tự suy nghĩ – AI gợi ý – Em làm chủ kiến thức.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
